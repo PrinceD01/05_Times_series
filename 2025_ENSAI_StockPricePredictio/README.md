@@ -10,7 +10,7 @@
 ---
 
 ## 2. Structure du projet
-
+```
 ├── notebooks/
 │   └── ProjetSerieTemporelle_Prince&Valdes.ipynb                   # Main Jupyter notebook with analysis
 │
@@ -27,7 +27,7 @@
 │   ├── Stock price prediction with LSTM model - zoomed view.png
 │   ├── Stock price prediction with LSTM model.png
 └── └── Summary of performances model.png
-
+```
 
 
 ---
